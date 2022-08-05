@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544945978990",
+    "project_id": "fir-todo-b17",
+    "storage_bucket": "fir-todo-b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544945978990:android:6e6fefaf7225edc1ce307f",
+        "android_client_info": {
+          "package_name": "com.pdp.firebase_note_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544945978990-tcsb0sl3cptteaarbcqc2tuuu1jrvmh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RH3EIdChylXlCnTnNSHSH1vWPBcWYxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544945978990-tcsb0sl3cptteaarbcqc2tuuu1jrvmh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
